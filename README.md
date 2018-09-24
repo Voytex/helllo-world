@@ -1,2 +1,2 @@
-# helllo-world
-training
+# hello-world
+training new skill - GIT!
